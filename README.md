@@ -10,6 +10,9 @@ We are using Moore’s Voting Algorithm approach, which is the explained below:
 * Step 3 : Third, after geting the majority value, then we traverse the array to check its count is greater than (size/2) or not
 * Step 4 : Final step, if count is greater than (size/2), then return majiority element , if not then then return -1.
 
+Time Complexity: O(n), because of linear traversal
+Space Complexity: O(1), because no extra space is created
+
 **QUESTION:**
 Given an array A of N elements. Find the majority element in the array. A majority element in an array A of size N is an element that appears more than N/2 times in the array.
 
