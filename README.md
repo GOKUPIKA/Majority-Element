@@ -13,7 +13,7 @@ We are using Moore’s Voting Algorithm approach, which is the explained below:
 Time Complexity: O(n), because of linear traversal
 Space Complexity: O(1), because no extra space is created
 
-**QUESTION:**
+# QUESTION:
 Given an array A of N elements. Find the majority element in the array. A majority element in an array A of size N is an element that appears more than N/2 times in the array.
 
 **Example 1:**
